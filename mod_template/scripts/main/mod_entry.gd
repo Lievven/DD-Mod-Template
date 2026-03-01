@@ -3,7 +3,7 @@ var script_class = "tool"
 # 1. Building or extending a tool (script_class = "tool")
 # 2. Creating a new export format (script_class = "export_format")
 
-const SCRIPT_PATH = "scripts/"
+const SCRIPT_PATH = "../demo_module/"
 const MOD_DISPLAY_NAME = "Mod Template"
 
 var DemoClass
