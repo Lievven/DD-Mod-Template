@@ -1,0 +1,17 @@
+The Opinionated DD Mod Template
+Using DungeondraftConsole.exe
+button to open Folder to Dungeondraft? -> create shortcut
+Register Icons/ textures to Global Theme
+preload
+persistence:
+    save/ load map settings
+    save/ load user settings
+    on program close -> NOTIFICATION_WM_QUIT_REQUEST
+    OnSaveBegin/ OnSaveEnd
+ToolPanel
+some _Lib stuff?
+    -> UpdateChecker
+    -> UIBuilder? ConfigBuilder?
+Something "Hello World!"-like
+example shader?
+loading a Scene -> build the Scene inside Godot Editor
