@@ -1,0 +1,8 @@
+{
+	"name": "_mod_template",
+	"unique_id": "Lievven._mod_template",
+	"version": "0.1.0",
+	"author": "Lievven",
+	"description": "A template to get your Dungeondraft modding ambitions started. PLEASE CHANGE NAME, UNIQUE_ID, AUTHOR, AND DESCRIPTION TO MATCH YOUR OWN MOD.",
+	"dd_version": "1.2.0.1"
+}
